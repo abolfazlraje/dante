@@ -42,3 +42,9 @@ or authorship on this work.  Please see [LICENSE](dante/LICENSE) file for more i
 Note: This is an unofficial copy of the Dante source which I've imported into a git repository.
 I've imported history going back to Dante 0.90.0 using a 
 [simple script](https://gist.github.com/notpeter/71b3e2e422708544600b) to automate the process.
+
+
+<a href="https://scan.coverity.com/projects/abolfazlraje-dante">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/21467/badge.svg"/>
+</a>
